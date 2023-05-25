@@ -1,0 +1,4 @@
+robotframework==6.0.2
+robotframework-selenium2library==3.0.0
+selenium==4.9.1
+wxPython==4.2.0
